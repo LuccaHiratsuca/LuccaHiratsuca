@@ -10,7 +10,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccahiratsuca&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccahiratsuca&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/luccahiratsuca/github-readme-activity-graph)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccahiratsuca" alt="luccahiratsuca" /></a> </p>
 
